@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 12.1//EN
+N:Kitsubun;Panit;;Dr.-Ing.;
+FN:Dr.-Ing. Panit Kitsubun
+ORG:Twogene Co.\, Ltd.;
+TITLE:Co-Founder / Executive Director
+EMAIL;type=INTERNET;type=WORK;type=pref:panit@twogene.com
+TEL;type=CELL;type=VOICE;type=pref:+669 5961 6351
+ADR;type=WORK;type=pref:;;723 Teo Hong Silom\, Suite 007 – R2\, Silom Road\, Bangrak;Bangkok;;10500;Thailand
+URL;type=WORK;type=pref:www.twogene.com
+END:VCARD
